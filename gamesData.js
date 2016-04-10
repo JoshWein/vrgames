@@ -17,7 +17,13 @@ $(document).ready(function() {
 			"release": "4/5/16",
 			"link": "<a href='http://store.steampowered.com/app/380220/'>Steam Page</a>",
 			"support": "HTC Vive"
-		}
+		},
+		{
+			"title": "Werewolves Within", 
+			"release": "Fall 2016",
+			"link": "<a href='http://www.werewolveswithin.com'>Home Page</a>",
+			"support": "Oculus Rift(confirmed), HTC Vive, Playstation VR"
+		},
 	]      
     $('#example').DataTable({
     	processing: true,
