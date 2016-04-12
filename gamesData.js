@@ -66,6 +66,12 @@ $(document).ready(function() {
 			"link": "<a href='https://www.wearvr.com/apps/car-car-crash2'>App Page</a>",
 			"support": "Oculus Rift"
 		},
+		{
+			"title": "", 
+			"release": "",
+			"link": "<a href=''></a>",
+			"support": ""
+		},
 	]      
     $('#gameList').DataTable({
     	processing: true,
@@ -79,12 +85,3 @@ $(document).ready(function() {
 	    "order": [[ 0, "asc" ]]
 	});
 });
-
-/* Template
-		{
-			"title": "", 
-			"release": "",
-			"link": "<a href=''></a>",
-			"support": ""
-		},
-*/
