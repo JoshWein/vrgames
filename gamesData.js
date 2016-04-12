@@ -66,6 +66,12 @@ $(document).ready(function() {
 			"link": "<a href='https://www.wearvr.com/apps/car-car-crash2'>App Page</a>",
 			"support": "Oculus Rift"
 		},
+		{
+			"title": "Fantastic Contraption", 
+			"release": "4/5/16",
+			"link": "<a href='http://store.steampowered.com/app/386690/'>Steam Store</a>",
+			"support": "HTC Vive"
+		},
 /****************** Template *****************
 		{
 			"title": "", 
