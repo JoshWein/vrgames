@@ -54,6 +54,12 @@ $(document).ready(function() {
 			"link": "<a href='https://www.evevalkyrie.com/'>Home Page</a>",
 			"support": "Oculus Rift, Playstation VR(launch title)"
 		},
+		{
+			"title": "Technolust", 
+			"release": "2016",
+			"link": "<a href='http://irisvirtualreality.com/un-portfolio/technolust-2/'>Home Page</a>",
+			"support": "Oculus Rift"
+		},
 	]      
     $('#gameList').DataTable({
     	processing: true,
