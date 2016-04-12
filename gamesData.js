@@ -84,6 +84,7 @@ $(document).ready(function() {
 	        {data: "link"},
 	        {data: "release"},
 	    ],
-	    "order": [[ 0, "asc" ]]
+	    "order": [[ 0, "asc" ]],
+	    "pageLength": 25
 	});
 });
