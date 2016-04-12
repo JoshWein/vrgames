@@ -56,8 +56,14 @@ $(document).ready(function() {
 		},
 		{
 			"title": "Technolust", 
-			"release": "2016",
+			"release": "Q3 16",
 			"link": "<a href='http://irisvirtualreality.com/un-portfolio/technolust-2/'>Home Page</a>",
+			"support": "Oculus Rift"
+		},
+		{
+			"title": "Car Car Crash", 
+			"release": "4/1/16",
+			"link": "<a href='https://www.wearvr.com/apps/car-car-crash2'>App Page</a>",
 			"support": "Oculus Rift"
 		},
 	]      
