@@ -2,7 +2,7 @@
 This is a static website that stores its data directly in the javascript.
 
 If you would like to contribute to this list:
-* Make a branch from the **gh-pages** branch
+* Fork the **gh-pages** branch
 * Copy and paste the template and add it to the end of the list.
 * Fill out the information for the game you want to add.
 * Commit it with the commit message "Added Game" and put the game name in the description.
